@@ -50,4 +50,4 @@ I enjoy the process of creating websites and also love to deal with challenging 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashandev-19&layout=compact)](https://github.com/yushi1007)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=prashandev-19.prashandev-19)](https://www.yushi.dev/)
+![](https://api.visitorbadge.io/api/VisitorHit?user=prashandev-19f&repo=BhattacharyaDev19&countColor=%237B1E7A)
