@@ -1,6 +1,6 @@
 # BhattacharyaDev19
 <p align="center">
-  <a href="https://www.BhattacharyaDev19.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/prashandev-19/BhattacharyaDev19/assets/144698239/db3f291e-4121-44da-99d7-a7ddefff2045" alt="my banner"></a>
+  <a href="https://www.BhattacharyaDev19.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/prashandev-19/BhattacharyaDev19/assets/144698239/db3f291e-4121-44da-99d7-a7ddefff2045" width="200" height="200" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -50,4 +50,4 @@ I enjoy the process of creating websites and also love to deal with challenging 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhattacharyaDev19&layout=compact)](https://github.com/yushi1007)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BhattacharyaDev19.BhattacharyaDev19)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
