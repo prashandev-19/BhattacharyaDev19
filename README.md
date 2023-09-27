@@ -1,6 +1,6 @@
 # BhattacharyaDev19
 <p align="center">
-  <a href="https://www.BhattacharyaDev19.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/prashandev-19/BhattacharyaDev19/assets/144698239/db3f291e-4121-44da-99d7-a7ddefff2045" width="200" height="200" alt="my banner"></a>
+  <a href="https://www.BhattacharyaDev19.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/prashandev-19/BhattacharyaDev19/assets/144698239/74ea5d96-4608-4797-b08f-d3ed7344da41" alt="my banner"></a>
 </p>
 
 <h3 align="center">
